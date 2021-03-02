@@ -11,7 +11,7 @@ I hope you like this game.
 # 游戏名：崩坏2D
 作者：Fulan Li(Adleo)，Ruichang Chen
 ### 游玩方式
-打包下载全部文件后点开 “Template.html” 或点开链接
+打包下载全部文件后点开 “index.html” 或点开链接https://adleof.github.io/Hongkai-Impact2d/
 ### 操作指南
 - 键盘A和D左右移动
 - J键攻击
